@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vscode\\csharp\\test\\test.csproj",
+      "projectUniqueName": "C:\\VSCode\\csharp\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\vscode\\csharp\\test\\test.csproj",
+      "projectPath": "C:\\VSCode\\csharp\\test\\test.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "C:\\vscode\\csharp\\test\\obj\\",
+      "outputPath": "C:\\VSCode\\csharp\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
